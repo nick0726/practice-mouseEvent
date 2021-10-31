@@ -1,0 +1,30 @@
+    --YkBpzA: #f8f9f9;
+    --deleted-page-height: 0px;
+    direction: ltr;
+    user-select: none;
+    -webkit-user-drag: none;
+    -webkit-tap-highlight-color: transparent;
+    position: absolute;
+    outline: none;
+    pointer-events: auto;
+    touch-action: manipulation;
+    width: 348px;
+    height: 20.5117px;
+    transform: translate(2.00504px, 174.013px);
+    <div class="aP0iDg _8wgmBA _682gpw" 
+    style="touch-action: manipulation; \
+    width: 348px; 
+    height: 20.5117px; 
+    transform: translate(2.00504px, 174.013px);
+    ">
+    <div class="CSQ61Q fxHT8Q _nGgVg" 
+    style="width: 348px; 
+    height: 20.5117px; 
+    transform: scaleX(1) scaleY(1); 
+    transform-origin: 0px 0px; 
+    writing-mode: horizontal-tb;">
+    <div class="_-EO8Jw"><div>
+    <div lang="ko-KR" class="_3stTEQ imh8lg" 
+    style="transform: translate(1.74417px, -1.74417px);">
+    <p class="ok-Wdg _5xZ9qA RVfbug" 
+    style="font-family: &quot;YADK4FJGaiU 0&quot;, _fb_, auto; font-size: 17.4417px; color: rgb(74, 87, 78); line-height: 1.4; letter-spacing: 0.2em; --para-spacing:0; text-transform: uppercase; --head-indent:0; --numeric-list-marker:none; list-style-type: none;"><span class="S1PPyQ" style="font-weight: 400; font-style: normal; color: rgb(74, 87, 78); text-decoration: none;">• 2025년 4월 12일 •</span></p></div></div></div></div></div>
