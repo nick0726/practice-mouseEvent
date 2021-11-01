@@ -6,6 +6,7 @@ const Test1 = () => {
   const onMouseDown = (e) => {
     const ball = ballRef.current;
     ball.style.position = "absolute";
+    ball.style.cursor = "grabbing";
     setClickOn(true);
   };
   const onMouseMove = (e) => {

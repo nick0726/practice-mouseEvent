@@ -19,19 +19,21 @@ const Test3 = () => {
   const onMouseMove = (e) => {
     const box = boxRef.current;
     if (clickOn) {
-      box.style.width = e.pageX - xIndex + itemWidth + "px";
+      box.style.width = e.pageX - xIndex + (itemWidth / 2) * 2 + "px";
       box.style.height = e.pageY - yIndex + itemHeight + "px";
     }
   };
   const onMouseUp = (e) => {
     const box = boxRef.current;
+    console.log(e.pageX - xIndex);
+    console.log(e.pageY - yIndex);
 
     setClickOn(false);
   };
   const onMouseOver = (e) => {
     const box = boxRef.current;
     box.style.borderStyle = "dashed";
-    box.style.cursor = "e-resize";
+    box.style.cursor = "move";
   };
   const onMouseOut = (e) => {
     const box = boxRef.current;
