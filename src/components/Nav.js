@@ -15,7 +15,7 @@ const Nav = () => {
       </div>
       <div className="box-bottom">
         <div className="bottom b1">
-          <div>
+          {/* <div>
             <Link to="/">MainPage</Link>
           </div>
           <div>
@@ -32,27 +32,27 @@ const Nav = () => {
           </div>
           <div>
             <Link to="/rotate">Rotate</Link>
-          </div>
+          </div> */}
         </div>
         <div className="bottom b2">
           <div>
-            <Link to="/test1">test1</Link>
+            <Link to="/test1">이동</Link>
           </div>
-          <div>
+          {/* <div>
             <Link to="/test2">test2</Link>
-          </div>
+          </div> */}
           <div>
-            <Link to="/test3">test3</Link>
+            <Link to="/test3">크기조절</Link>
           </div>
-          <div>
+          {/* <div>
             <Link to="/test4">test4</Link>
-          </div>
+          </div> */}
           <div>
-            <Link to="/test5">test5</Link>
+            <Link to="/test5">회전</Link>
           </div>
-          <div>
+          {/* <div>
             <Link to="/test6">test6</Link>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>
